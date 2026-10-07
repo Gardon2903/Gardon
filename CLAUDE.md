@@ -14,6 +14,7 @@ Feste Regeln:
 - **Dokumente, Tabellen, Folien, PDFs** → `docs`, `xlsx`, `pptx`, `pdf` bzw. `docx` je nach gewünschtem Format.
 - **Wiederkehrende Aufgaben** → `/loop`; wiederholt sich ein Ablauf, schlage mit `skill-creator` einen eigenen Skill vor.
 - **App starten oder Änderung live prüfen** → `run`.
+- **KI-Modelle auswählen, Modell-IDs oder Aliase nachschlagen, Anbieter vergleichen** → `omni-models`; geht es um Claude oder die Anthropic-API, zusätzlich `claude-api`.
 
 Nur auf ausdrücklichen Wunsch: `grille-mich`, `caveman`, `morning`.
 
